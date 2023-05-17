@@ -63,7 +63,7 @@ ploting graphs for getting the clear information about dataset.
 
 6.Box Plot
 
-7. violin plot 
+7.violin plot 
 
 8.Dist plot
 
