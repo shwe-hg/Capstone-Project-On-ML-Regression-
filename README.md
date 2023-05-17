@@ -73,7 +73,7 @@ ploting graphs for getting the clear information about dataset.
 
 11.Point plot
 
-##Models
+## Models
 
 1.Linear regression model
 
@@ -100,7 +100,7 @@ ploting graphs for getting the clear information about dataset.
 12.CatBoost
 
 
-##Conclusion
+## Conclusion
 
 
 1.Preprocessing the data was one of the difficult challenges i faced.
